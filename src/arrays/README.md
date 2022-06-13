@@ -1,4 +1,4 @@
-##1D Array
+<h2>1D Array/h2>
 – Container object(stored on heap) that holds fixed #(number of items that an array can store is decided at the 
 array creation time, cannot be changed afterwards) values of single type(items should be of single data type, 
 primitives or object references) in a contiguous memory location<br>
